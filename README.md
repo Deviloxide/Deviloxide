@@ -1,4 +1,4 @@
-#- 👋 Hi, I’m @Deviloxide
+#- 👋 Hi, I’m Eric
 - 👀 I’m interested in ...
 Pretty much anything
 
