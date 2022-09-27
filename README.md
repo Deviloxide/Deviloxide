@@ -3,7 +3,7 @@
 Pretty much anything
 
 - 🌱 I’m currently learning ...
-Cybersecurity
+Cybersecurity & Machine Learning
 
 - 💞️ I’m looking to collaborate on ... 
 Nothing at the moment
